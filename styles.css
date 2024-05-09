@@ -3,3 +3,22 @@
     margin: 0;
     padding: 0;
 }
+.nav-center{
+    display: flex;
+
+}
+h1{
+    padding:10px;
+
+}
+.nav-center ul{
+    display: flex;
+    list-style-type: none;
+
+}
+.nav-center ul li{
+    justify-content: space-between;
+    padding: 10px;
+    float: right;
+
+}
